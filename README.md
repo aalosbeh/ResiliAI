@@ -15,7 +15,7 @@ The ResiliAI framework consists of three main components:
 ## Repository Structure
 
 ```
-ESI2025_ResiliAI/
+ResiliAI/
 ├── code/                       # Source code for the ResiliAI framework
 │   ├── src/                    # Core modules
 │   │   ├── data_preprocessing.py  # Data preprocessing module
@@ -27,16 +27,8 @@ ESI2025_ResiliAI/
 │   ├── tests/                  # Unit and integration tests
 │   └── run_experiments.py      # Main script to run experiments
 ├── data/                       # Data directory
-│   ├── raw/                    # Raw data files
-│   └── processed/              # Processed data files
 ├── results/                    # Experiment results
 │   ├── visualizations/         # Generated visualizations
-│   └── report/                 # Summary reports
-├── paper/                      # Research paper files
-│   ├── extended_abstract.tex   # Extended abstract for ESI2025
-│   ├── full_paper.tex          # Full paper for ESI2025
-│   └── figures/                # Paper figures
-├── analysis/                   # In-depth analysis documents
 ├── README.md                   # Repository overview (this file)
 ├── requirements.txt            # Python dependencies
 └── LICENSE                     # License information
@@ -46,7 +38,7 @@ ESI2025_ResiliAI/
 
 ```bash
 # Clone the repository
-git clone https://github.com/alosbeh/ResiliAI.git
+git clone https://github.com/aalosbeh/ResiliAI.git
 cd ResiliAI
 
 # Create and activate a virtual environment
@@ -103,7 +95,7 @@ If you use this code or the ideas presented in the paper, please cite:
 ```
 @inproceedings{alsobeh2025resiliai,
   title={ResiliAI: A Multi-Agent Reinforcement Learning Framework for AI-Driven Economic Shock Resilience and Adaptive Policy Simulation},
-  author={ALsobeh, Anas},
+  author={ALsobeh, Anas,},
   booktitle={8th International Conference on Entrepreneurship for Sustainability \& Impact (ESI2025)},
   year={2025}
 }
@@ -113,8 +105,3 @@ If you use this code or the ideas presented in the paper, please cite:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-
-- Massachusetts Institute of Technology for research support
-- International Monetary Fund for fiscal policy data
-- The open-source community for tools and libraries
