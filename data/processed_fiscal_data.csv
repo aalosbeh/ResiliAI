@@ -1,0 +1,574 @@
+country,above_the_line,below_the_line,contingent_liabilities,healthcare_spending,household_support,business_support,total_fiscal_response,direct_to_indirect_ratio,resilience_score
+Pandemic,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Territory,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Total,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Unit
+
+Unit",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Unit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Government
+Level",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Australia
+
+General Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Structured,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Guarantee Scheme,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Northern,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Canada
+
+Central Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Business Credit Availability,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Canada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Export Development Canada,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Large Employer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Support,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Postponement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+The,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Recovery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Key,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Corona,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+The Coronavirus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+European Social,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Member,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Just Transition,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"France
+Germany
+
+General Government
+General Government
+
+Italy
+
+General Government
+
+European Union
+
+Government
+Level",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+European,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Japan
+
+Total",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"General Government
+
+Government
+Level",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Japan Bank,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Investment Insurance,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Public,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Korea,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+General Government,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Customized Relief Package,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Make,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tax,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Corporate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+January,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New Payment,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+National Health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Working Tax,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Catastrophe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Deferral,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Central Government
+
+United Kingdom",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+State Financial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tourism Competitiveness,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Spain
+
+General Government
+
+Government
+Level",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Spanish Export
+Insurance Credit Company",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+The Coronavirus Business Interruption,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+The Coronavirus Large Business,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Corporate Financing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+March,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Recovery Loan Scheme,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+December,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+May,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Economic,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Executive,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Federal Reserve,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Argentina
+
+Central Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+The Act,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Response Supplemental,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Families First Coronavirus Response,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+April,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Consolidated Appropriation Act,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"United States
+
+Total",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Central Government
+
+Government
+Level",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+These,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Special Festive,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+June,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Accelerated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"General Government
+
+China
+India
+
+Central Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Brazil
+
+General Government
+
+Total",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Es,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rural,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ministry,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Deferred,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Housing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Social Security,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Saudi Arabia
+
+General Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eligibility,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Preliminary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Indonesia
+
+Central Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Public Sector
+
+Mexico
+Russia
+
+Central Government
+
+Total",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Measures,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+An,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"South Africa
+
+General Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Public Sector
+
+Turkey
+Belgium
+
+General Government
+
+Total",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ziraat,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Additional,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Loan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Smart Quarantine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Government
+Level
+General Government
+
+Czech Republic
+Denmark
+
+General Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Insurance,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Travel Agency Guarantee Program,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Export,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Scandinavian Airlines,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finnish Industry,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finnish Minerals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Unit
+
+Total",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Finland
+
+General Government
+
+Total",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Temporary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"The Netherlands
+
+General Government
+Central Government
+
+New Zealand
+Norway
+
+Central Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Air,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Innovation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Unemployment,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Government,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Government
+Level
+
+Total",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Federal Department,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Madeira,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Swedavia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Entrepreneur,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Central Government
+
+Sweden
+Switzerland
+
+Central Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Portugal
+Singapore
+
+Central Government
+
+General Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Swedish Export Credit,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colombian,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+National Emergency Mitigation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mn,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bulgaria
+
+General Government
+Central Government
+
+Chile
+Colombia
+
+General Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Personal Protective Equipment,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Albania
+
+General Government
+
+Government
+Level",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+National,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bulgarian Development Bank,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Supporting,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Enterprise Georgia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sustainable,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Funding,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Emergency,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Primary Consumption Food,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Government
+Level
+Central Government
+
+Egypt
+Georgia
+
+General Government
+Ceneral Government
+
+Guatemala
+Kazakhstan
+
+Central Government
+
+Total",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"National
+Disaster Management Authority",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Recovery Aid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mauritius,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Solidarity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+September,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+The Human,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Reskilling,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Air Freight,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"General Government
+
+Peru
+Philippines
+
+Central Government
+
+Total",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Mauritius
+
+General Government
+General Government
+
+North Macedonia
+Pakistan
+
+Central Government
+
+Total",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Enterprise,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Grants,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Poland
+
+General Government
+Central Government
+
+Romania
+
+Government
+Level",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Polish Development,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+November,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Serbia
+
+General Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Development Fund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Social Security Office,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Social,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Super,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+This,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Public Sector
+
+Thailand
+Tunisia
+
+General Government
+General Government
+
+United Arab Emirates
+Bangladesh
+
+Central Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Banhprovi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Increasing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"General Government
+
+Ethiopia
+Ghana
+
+Central Government
+Central Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bissau
+Honduras
+
+Central Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Chad
+
+Total",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Disease Control,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Improve Quarantine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Existing Health Facilities,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Government
+Level
+Central Government
+
+Kenya
+Myanmar",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Public Sector
+Central Government
+
+Niger
+Nigeria
+
+General Government
+
+Total",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mitigation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Water,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Import,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rollover,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vietnam Electricity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vietnam,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Salary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Exoneration,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Uzbekistan
+
+General Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vietnam
+Zambia
+
+Central Government",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Senegal
+
+Central Government
+
+Government
+Level",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Billion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Subtotal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Australia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+European Union,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+France,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Germany,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Italy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Spain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+United Kingdom,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+United States,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Argentina,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brazil,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+China,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+India,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Indonesia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mexico,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Russia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saudi Arabia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Africa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Turkey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Other Selected Advanced Economies
+Austria",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Belgium,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cyprus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Denmark,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Estonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Greece,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Israel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Latvia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lithuania,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Luxembourg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Malta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+The Netherlands,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+New Zealand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Norway,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singapore,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Slovak Republic,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Slovenia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sweden,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Switzerland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Health
+Subtotal",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Subtotal
+
+Other Selected Emerging Markets
+Albania",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Angola,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Barbuda
+Armenia
+Aruba
+Azerbaijan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"The
+Bahrain
+Barbados
+Belarus
+Belize
+Bolivia",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Herzegovina
+Botswana
+Brunei Darussalam
+Bulgaria
+Cabo Verde
+Chile
+Colombia
+Costa Rica
+Croatia
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eswatini
+Fiji
+Gabon
+Georgia
+Grenada
+Guatemala
+Guyana
+Hungary
+Iran
+Iraq
+Jamaica
+Jordan
+Kazakhstan
+Kosovo
+Kuwait
+Lebanon
+Libya
+Malaysia
+Maldives
+Mauritius",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mongolia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Morocco
+Namibia
+Nauru",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Subtotal
+
+North Macedonia",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pakistan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Palau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Panama,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Peru,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Philippines,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Poland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Qatar,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Romania,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Serbia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Seychelles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sri Lanka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nevis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lucia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Grenadines,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thailand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tonga,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tobago,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tunisia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Turkmenistan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tuvalu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ukraine,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+United Arab Emirates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uruguay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vanuatu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Income Developing Countries
+Afghanistan",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bangladesh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Benin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Bhutan
+Burkina Faso",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burundi,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cambodia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cameroon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Central African Republic,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chad,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Comoros,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ivoire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Congo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Djibouti,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Eritrea
+Ethiopia",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ghana,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Guinea,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bissau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haiti,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Honduras,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kenya,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kyrgyz Republic,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Nondeferred
+Health
+Subtotal",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Lesotho
+Liberia
+Madagascar
+Malawi
+Mali
+Mauritania
+Moldova
+Mozambique
+Myanmar
+Nepal
+Nicaragua
+Niger
+Nigeria
+Papua New Guinea
+Rwanda",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Senegal
+Sierra Leone
+Solomon Islands
+Somalia
+South Sudan
+Sudan
+Tajikistan
+Tanzania",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Togo
+Uganda
+Uzbekistan
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+Global
+
+Accelerated",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
