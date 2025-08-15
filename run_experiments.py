@@ -1,14 +1,3 @@
-"""
-Main script to run the ResiliAI framework experiments and generate results
-
-This script executes the complete experimental workflow for the ResiliAI framework,
-including data preprocessing, MARL simulation, digital twin economy simulation,
-and resilience scoring with explainable AI.
-
-Author: Anas ALsobeh, Raneem Alkurdi
-Date: July 2025
-"""
-
 import os
 import sys
 import time
